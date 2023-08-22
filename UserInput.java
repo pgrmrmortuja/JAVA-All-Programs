@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Dcoder {
+class UserInput {
   
     public static void main(String[] args) {
       
