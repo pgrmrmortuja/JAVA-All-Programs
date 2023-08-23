@@ -1,4 +1,4 @@
-Package myjaba;
+package myjaba;
 
 import java.util.Scanner;
 
