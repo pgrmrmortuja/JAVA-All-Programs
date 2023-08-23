@@ -2,7 +2,7 @@ Package myjaba;
 
 import java.util.Scanner;
 
-class Dcoder {
+class Square {
     public static void main(String[] args) {
 
         String nam;
