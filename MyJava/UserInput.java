@@ -1,6 +1,8 @@
+package myjava;
+
 import java.util.Scanner;
 
-class UserInput {
+ class UserInput {
   
     public static void main(String[] args) {
       
